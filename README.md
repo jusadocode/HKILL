@@ -1,5 +1,5 @@
 
-Welcome to HKILL
+Welcome to <b>HKILL</b>
 
 A game where discipline, guns and math is involved.
 
